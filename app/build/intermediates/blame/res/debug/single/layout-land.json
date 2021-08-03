@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_login.xml",
+        "source": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_profile.xml",
+        "source": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\src\\main\\res\\layout-land\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_register.xml",
+        "source": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\src\\main\\res\\layout-land\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_chat.xml",
+        "source": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\src\\main\\res\\layout-land\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_user.xml",
+        "source": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\src\\main\\res\\layout-land\\activity_user.xml"
+    },
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_setting.xml",
+        "source": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\src\\main\\res\\layout-land\\activity_setting.xml"
+    }
+]

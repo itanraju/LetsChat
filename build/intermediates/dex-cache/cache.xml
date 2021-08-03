@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\171e6d52a11ae48bbc5ece8b39a5995463dc158f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_c6d2138bc93a73434c4857a2ef2981593cc30d58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_6d6feba80cf37616499fbf759ed7db640a26165c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\54875727777660bd4f40069036c3586ea85a7a3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_82a38493e06a19bb03d426755d08d9d6248a2dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_03ea08a949aca9b257ab4a785981ce3f68de7f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\e17ebef6ce5490edac5c1d3fae005e1ad4080e63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_48e1fa936bec56a883e5378f36e6885fef808db7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\f9f0080f58b4999b6c4b660ecf92334baa779c53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_38177ac64710ea73cb6f274699b95feab78e4590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\2cb0d24ee3c935a5639938619c4fca14ba09984a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_1af19ff35a1084aaed38764f359d32603f1c966d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\e714c6b0f46d0b7cf5a0459195de0609a799672d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_a0aabf1de9124b3825ddd21531d05b08bf6cdda9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\871a28249112810fb9831a328dda4fa0406ce033\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_1a7acf0da116eef99b6cf7f9dbd564aa69b1fc12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\63a27726bf0657b36a63f338e294fafe9ce480bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_2336b8d26910ce15fb47006b0ef073a8028ab9cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\f8d20d3043997a86a43f2c45e7910ac8161a6dfb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b16a8a4f42d24615e2c8cb2af5205d5ed7f4440c">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_8304b90f199ff8b2fc25c74b762d5fc3e3ace0a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\96bbae6c9b6b891833a5ffaac4523d0dc02dcec3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_6307c4a8ed2a54fc91523f1f19fac4057ce2bb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\7ad0d6993e13b1ba91835192dd3482c0142c498b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_e1e807f4326f119d7b6dbedc2e072f13bef3f0ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\02393d181309cf03b49ed8ba584225965c325d49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_55b139278b7d4490297996038289a8f9c76f5deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\4b42c97ec95e19d06cf09694399cf78a82f99154\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_82a0bd0fbdd5921fb3820103ac21210ec13c6f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\57b771d8f243819b500e28f69490eaea7393657d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_3e926cdf16defb00d73a51ffefa3ac1cfa45c627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_53e1f0d51f83952b2cbedadae3a0823231ef52e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\21a53924cfdb7b95905d3dd11bb5e25aebd6937c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3064fd1622398ad2cd8515f7ff8f090a160b1500">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_fc6ffe5559dd4bb7c144511397c79b3e40dd1111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\93170dda3a42feca8703d6d89de6e35bfe939d2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_9404c0692c09bb1a8227e579bfe0eac23833b86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\7f024355faaff8891ba53bf8d6b15a4f50969046\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_448ad75bca11938181a6a84a56f0367e1c30e2ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\6b2bf075d31131cfb22a0d372f711bf214c7e523\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_0014d5c3443487c948f0448b821dcfeaa0541c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\rxjava-2.1.0_cef288eea903dc0e362c4bfaad1ae20e46d5158f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_aff1cf437ea7112000d35df5bf6da687e71f4d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\116d23a71ee4bbc5e58da795e68c902c49c7270d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_e414d374dc76e1b4329d75a05a98a861f411fa5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\f367d83248070d5182cfb4a1d54debbb2990bb9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_580e83658da6d823716763ba316d0aa29703ffd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\763d7adc494849f51bea001652d0627ecbf670d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b0b0f4f99cf68e748dd123ad553738e4284d4749">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_f4a9537fc881a73c362cfbf7df257285feec96c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\e243fc7223aca12d8b9589f416176ae6c9063f08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_1e2435473b80c3d7f6a8fccf1a7f7c5db0efdeb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\3cfd1e005e1dfbe8329c22e4b27818885cfd19ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_5a3b8b12ed34573417054691e400b3c826c931a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\6a8d5adbd21985fec66a6c270d801c691da66a1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_4137ad3494a98a3006d0589e49522a5f290f3fa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.2_76bc38f49a3910a5198f456cbcea790d1479a4e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\ea02535162729b1607ad6eadd771cdcdbc6f7d49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_b155a06c085042c1c99d146f546e0bb17530bf14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\2c294b826822496eb6780950a313d87c81dd9f94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_5278077bdbd195b150d39cdb4a98fb960b74edec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\f2899e27610cd37f515c55c2115fccb0d735c3bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_6aecce96c9e7a82bee2a71606f33f99cf0142939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\13b336f76221dabb8e0c7a669bbcaba2bf0ec5ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_f66b8a8aa8f466d1addf3f736af19a3494c66a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\f9ba3c5ff767c7e057bddf78073f0bf34199e055\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_338d074f9429c27ef49b6e0323372acfe0f4b2d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\okio-1.6.0_82b56c827511dedbfbd3c43cce54bed6bb64e899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\7dbcc6f3bac99350b60bfc09527609f5c54e366b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_f49ca21ccdea091f3d7f2037883246963c1535d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Free System\.android\build-cache\7c854c0a6048c3b804f05bde0e0f5882adf80ae5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\extra\Lets-Chat-master\LetsChat\app\build\intermediates\pre-dexed\debug\classes_c34a332c81c28d3b808c5314486736acb21d5e63.jar" />
+    </item>
+
+</items>

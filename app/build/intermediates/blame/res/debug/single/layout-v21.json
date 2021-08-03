@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Free System\\.android\\build-cache\\96bbae6c9b6b891833a5ffaac4523d0dc02dcec3\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Free System\\.android\\build-cache\\96bbae6c9b6b891833a5ffaac4523d0dc02dcec3\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Free System\\.android\\build-cache\\96bbae6c9b6b891833a5ffaac4523d0dc02dcec3\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\extra\\Lets-Chat-master\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Free System\\.android\\build-cache\\96bbae6c9b6b891833a5ffaac4523d0dc02dcec3\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
